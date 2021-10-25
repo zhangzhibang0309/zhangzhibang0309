@@ -9,3 +9,5 @@
 📘 博客: [我的博客(github issues)](https://github.com/zhangzhibang0309/__Blog)  
 😄 hobby: Eva eat sleep coding  
 ⚡ word: 终身学习   
+💻 Steve Jobs：  
+![](https://catalinazzz.oss-cn-beijing.aliyuncs.com/image/25529EED886FFBD3D39371530D63E101.png)

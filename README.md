@@ -38,4 +38,5 @@
 
 [![](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/intellijIDEA-C01818?style=flat-square&logo=intellijIDEA&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/WebStorm-48DAD0?style=flat-square&logo=WebStorm&logoColor=ffffff)](https://www.archlinux.org/)
 

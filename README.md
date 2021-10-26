@@ -13,3 +13,5 @@
 ⚡ word: 终身学习   
 💻 Steve Jobs：  
 ![](https://catalinazzz.oss-cn-beijing.aliyuncs.com/image/25529EED886FFBD3D39371530D63E101.png)
+
+![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)

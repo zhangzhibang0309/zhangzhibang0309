@@ -36,5 +36,5 @@
 [![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://www.archlinux.org/)
 
 [![](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/intellijIDEA-007CFF?style=flat-square&logo=intellijIDEA&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/intellijIDEA-C01818?style=flat-square&logo=intellijIDEA&logoColor=ffffff)](https://www.archlinux.org/)
 

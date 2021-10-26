@@ -34,5 +34,5 @@
 [![](https://img.shields.io/badge/Docker-1488C6?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://www.archlinux.org/)
 
-[![](https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)](https://www.archlinux.org/)
 

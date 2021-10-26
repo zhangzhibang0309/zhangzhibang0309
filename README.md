@@ -16,17 +16,17 @@
 ![](https://catalinazzz.oss-cn-beijing.aliyuncs.com/image/25529EED886FFBD3D39371530D63E101.png)
 
 ### Platform
-[![](https://img.shields.io/badge/Windows-Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/macOS-macOS-FF574D?style=flat-square&logo=macOS&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/CentOS-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Ubuntu-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Windows-Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/)
+[![](https://img.shields.io/badge/macOS-macOS-FF574D?style=flat-square&logo=macOS&logoColor=ffffff)](https://support.apple.com/zh-cn/macos)
+[![](https://img.shields.io/badge/CentOS-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org/)
+[![](https://img.shields.io/badge/Ubuntu-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
 ### Technology Stack
-[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org/en/)
+[![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://v3.cn.vuejs.org/)
+[![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)](https://react.docschina.org/)
+[![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=ffffff)](https://www.sveltejs.cn/)
 [![](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/V8-4B8BF5?style=flat-square&logo=V8&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)](https://www.archlinux.org/)

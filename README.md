@@ -28,6 +28,7 @@
 [![](https://img.shields.io/badge/V8-4B8BF5?style=flat-square&logo=V8&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Linux-87CF3E?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.archlinux.org/)

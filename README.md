@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](http://antzuhl.cn:4000/get/@zhangzhibang0309.readme)
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 🔭 I’m currently studying on QLU  
 🌱 I’m currently learning JavaScript c++ DataStructures Algorithms Os CC  

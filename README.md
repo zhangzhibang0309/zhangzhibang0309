@@ -24,6 +24,7 @@
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/V8-4B8BF5?style=flat-square&logo=V8&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Linux-87CF3E?style=flat-square&logo=Linux&logoColor=ffffff)](https://www.archlinux.org/)

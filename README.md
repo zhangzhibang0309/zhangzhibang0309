@@ -14,4 +14,4 @@
 💻 Steve Jobs：  
 ![](https://catalinazzz.oss-cn-beijing.aliyuncs.com/image/25529EED886FFBD3D39371530D63E101.png)
 
-[![](https://img.shields.io/badge/Java-007396/JavaScript-F7DF1E?style=flat-square&logo=JavaScript-F7DF1E&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Java-F7DF1E/JavaScript-F7DF1E?style=flat-square&logo=JavaScript-F7DF1E&logoColor=ffffff)](https://www.archlinux.org/)

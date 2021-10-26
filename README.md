@@ -14,12 +14,13 @@
 💻 Steve Jobs：  
 ![](https://catalinazzz.oss-cn-beijing.aliyuncs.com/image/25529EED886FFBD3D39371530D63E101.png)
 
-
+### Platform
 [![](https://img.shields.io/badge/Windows-Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-macOS-FF574D?style=flat-square&logo=macOS&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/CentOS-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Ubuntu-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
 
+### Technology Stack
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://www.archlinux.org/)
@@ -37,6 +38,7 @@
 [![](https://img.shields.io/badge/Docker-1488C6?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://www.archlinux.org/)
 
+### IDE
 [![](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/intellijIDEA-C01818?style=flat-square&logo=intellijIDEA&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/WebStorm-48DAD0?style=flat-square&logo=WebStorm&logoColor=ffffff)](https://www.archlinux.org/)

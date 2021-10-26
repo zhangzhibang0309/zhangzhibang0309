@@ -1,6 +1,22 @@
 ### Hi there 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=dark)
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=merko)
+
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=gruvbox)
+
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=onedark)
+
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=synthwave)
+
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
+
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=dracula)
 
 🔭 I’m currently studying on QLU  
 🌱 I’m currently learning JavaScript c++ DataStructures Algorithms Os CC  

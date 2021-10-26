@@ -17,6 +17,7 @@
 
 [![](https://img.shields.io/badge/Windows-Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-macOS-FF574D?style=flat-square&logo=macOS&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/CentOS-CentOS-#262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.archlinux.org/)
 
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://www.archlinux.org/)

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=Gradient)
 
 <!-- 主题：dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 🔭 I’m currently studying on QLU  

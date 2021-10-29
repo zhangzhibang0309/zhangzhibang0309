@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&theme=gradient&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+)](https://github.com/anuraghazra/github-readme-stats)
 
 ![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=Gradient)
 

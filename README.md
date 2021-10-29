@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=cobalt)
-![DCTewi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&langs_count=8&hide_border=true&exclude_repo=zhangzhibang0309.github.io&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 主题：dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 🔭 I’m currently studying on QLU  
 🌱 I’m currently learning JavaScript c++ DataStructures Algorithms Os CC  

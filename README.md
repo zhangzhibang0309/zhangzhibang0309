@@ -2,7 +2,7 @@
 
 [![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
-![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&bg_color=(45deg,blue,red))
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&bg_color=45deg,C14242,3FBFBF)
 
 <!-- 主题：dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 🔭 I’m currently studying on QLU  

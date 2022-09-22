@@ -6,7 +6,7 @@
 
 <!-- 主题：dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 🔭 I’m currently studying on QLU  
-🌱 I’m currently learning JavaScript c++ DataStructures Algorithms Os CC  
+🌱 Frontend｜Infrastructure｜Compiler｜TypeSystem
 👯 I’m looking to collaborate on everything  
 🤔 I’m looking for help with DataStructures  
 💬 QQ: 295854713  

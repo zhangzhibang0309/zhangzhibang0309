@@ -41,6 +41,5 @@
 
 ### IDE
 [![](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/intellijIDEA-C01818?style=flat-square&logo=intellijIDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/WebStorm-48DAD0?style=flat-square&logo=WebStorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
+[![](https://img.shields.io/badge/vim?style=flat-square&logo=WebStorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
 

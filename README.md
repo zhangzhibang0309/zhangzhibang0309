@@ -8,9 +8,9 @@
 😄 hobby: Eva Eat Coding  
 ⚡ word: Lifelong Learning  
 
-![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&theme=gradient)
 
-![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=gradient)
 
 
 💻 綾波レイ：  

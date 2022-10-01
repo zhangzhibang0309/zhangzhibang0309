@@ -8,7 +8,7 @@
 🤔 I’m currently recruiting in the fall 
 🌱 Frontend｜Infrastructure｜Compiler｜TypeSystem  
 💬 QQ: 295854713  
-🛰  WX: __Xiyeqi777 
+🛰  WX: __Xiyeqi777  
 😄 hobby: Eva Eat Coding  
 ⚡ word: Lifelong Learning  
 💻 綾波レイ：  

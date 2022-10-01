@@ -1,9 +1,5 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhibang0309.zhangzhibang0309)&nbsp;![follow](https://img.shields.io/github/followers/zhangzhibang0309?label=Follow&style=social)
 
-![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&theme=cobalt)
-
-![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=cobalt)
-
 🔭 I’m currently studying on QLU  
 🤔 I’m currently recruiting in the fall 
 🌱 Frontend｜Infrastructure｜Compiler｜TypeSystem  
@@ -11,6 +7,12 @@
 🛰  WX: __Xiyeqi777  
 😄 hobby: Eva Eat Coding  
 ⚡ word: Lifelong Learning  
+
+![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+
+![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+
+
 💻 綾波レイ：  
 
 ![DB6C7EA70E8F599022E1A85135597644](https://user-images.githubusercontent.com/57056590/193419422-0efb13f6-9117-4d32-9e79-7332897f1997.png)

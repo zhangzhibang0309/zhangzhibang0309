@@ -5,13 +5,12 @@
 ![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&show_icons=true&count_private=true&hide=prs&theme=cobalt)
 
 🔭 I’m currently studying on QLU  
+🤔 I’m currently recruiting in the fall 
 🌱 Frontend｜Infrastructure｜Compiler｜TypeSystem  
-👯 I’m looking to collaborate on everything  
-🤔 I’m looking for help with DataStructures  
 💬 QQ: 295854713  
 🛰  WX: __Xiyeqi777 
-😄 hobby: Eva eat sleep coding  
-⚡ word: 终身学习   
+😄 hobby: Eva Eat Coding  
+⚡ word: Lifelong Learning  
 💻 綾波レイ：  
 
 ![DB6C7EA70E8F599022E1A85135597644](https://user-images.githubusercontent.com/57056590/193419422-0efb13f6-9117-4d32-9e79-7332897f1997.png)

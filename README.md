@@ -14,7 +14,7 @@
 📘 博客: [我的博客(github discussions)](https://github.com/zhangzhibang0309/__Blog/discussions)  
 😄 hobby: Eva eat sleep coding  
 ⚡ word: 终身学习   
-💻 Steve Jobs：  
+💻 綾波レイ：  
 
 ![DB6C7EA70E8F599022E1A85135597644](https://user-images.githubusercontent.com/57056590/193419422-0efb13f6-9117-4d32-9e79-7332897f1997.png)
 

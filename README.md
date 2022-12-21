@@ -13,9 +13,8 @@
 ![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
-💻 綾波レイ：  
+💻 蛇喰梦子：  
 
-![DB6C7EA70E8F599022E1A85135597644](https://user-images.githubusercontent.com/57056590/193419422-0efb13f6-9117-4d32-9e79-7332897f1997.png)
 ![蛇喰梦子](https://catalinazzz.oss-cn-beijing.aliyuncs.com/image/64F655644CBA8B90EFEC1DCCF9ACB124.png)
 
 ### Platform

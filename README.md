@@ -1,7 +1,7 @@
 ### 遗世独立的理想乡 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhibang0309.zhangzhibang0309)&nbsp;![follow](https://img.shields.io/github/followers/zhangzhibang0309?label=Follow&style=social)
 
 🔭 大学生活到此为止，正准备加入下一场泡沫  
-🤔 没有特定的风格，喜欢写代码，也喜欢打LOL，听二手玫瑰，也看Fate/stay night
+🤔 没有特定的风格，喜欢写代码，也喜欢打LOL，听二手玫瑰，也看Fate/stay night  
 🌱 Frontend｜Infrastructure｜Compiler｜TypeSystem  
 💬 留下我的QQ: 295854713  
 😄 Lifelong Learning

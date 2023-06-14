@@ -5,7 +5,7 @@
 🌱 Frontend｜Infrastructure｜Compiler｜TypeSystem  
 💬 留下我的QQ: 295854713  
 😄 Lifelong Learning  
-⚡ 哥 你读过春秋吗  
+⚡ 允许部分程序员先富起来  
 
 ![info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzhibang0309&layout=compact&show_icons=true&count_private=true&hide=prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)&nbsp;&nbsp;&nbsp;&nbsp;![info](https://github-readme-stats.vercel.app/api?username=zhangzhibang0309&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
